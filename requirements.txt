@@ -1,0 +1,3 @@
+duckdb>=1.0
+pandas>=1.4.4
+pyarrow>=12.0.1
